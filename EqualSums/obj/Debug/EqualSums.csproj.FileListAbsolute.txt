@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\C-SharpArraysMoreTasks\C-sharpArrayTasks\C-SharpMoreTasks\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\Laptop\Desktop\C#\C-SharpArraysMoreTasks\C-sharpArrayTasks\C-SharpMoreTasks\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\Laptop\Desktop\C#\C-SharpArraysMoreTasks\C-sharpArrayTasks\C-SharpMoreTasks\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\Laptop\Desktop\C#\C-SharpArraysMoreTasks\C-sharpArrayTasks\C-SharpMoreTasks\EqualSums\obj\Debug\EqualSums.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\C-SharpArraysMoreTasks\C-sharpArrayTasks\C-SharpMoreTasks\EqualSums\obj\Debug\EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\C-SharpArraysMoreTasks\C-sharpArrayTasks\C-SharpMoreTasks\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\Laptop\Desktop\C#\C-SharpArraysMoreTasks\C-sharpArrayTasks\C-SharpMoreTasks\EqualSums\obj\Debug\EqualSums.pdb
